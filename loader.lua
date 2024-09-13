@@ -19,10 +19,14 @@ for i, v in pairs(Projects) do
 
 		(loadstring or load)(game:HttpGet(v.Loader))()
 
+		print(("Loaded %s"):format(i))
+
 		break
 	end
 end
 
 if not Loaded then
+	warn(("Unrecognized GameId %d"):format(game.GameId))
+
 	setclipboard(tostring(game.GameId))
 end
