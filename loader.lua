@@ -17,6 +17,8 @@ for i, v in pairs(Projects) do
 	if v.GameId == game.GameId then
 		Loaded = true
 
+		print(("Loading %s"):format(i))
+
 		(loadstring or load)(game:HttpGet(v.Loader))()
 
 		print(("Loaded %s"):format(i))
