@@ -19,8 +19,16 @@ for i, v in pairs(Projects) do
 
 		print(("Loading %s"):format(i))
 
-		(loadstring or load)(game:HttpGet(v.Loader))()
+		do
+			(
+				loadstring or load
+			)(
+				game:HttpGet(v.Loader)
+			)(
 
+			)
+		end
+		
 		print(("Loaded %s"):format(i))
 
 		break
