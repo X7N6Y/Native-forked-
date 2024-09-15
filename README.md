@@ -15,7 +15,7 @@
    Users are strictly prohibited from reverse engineering, decompiling, or attempting to extract or replicate any part of Native's services, code, or functionality.
 
 5. **User Conduct**  
-   You agree to behave in a manner that does not harm or negatively impact the experience of other users. This includes but is not limited to harassment, exploitation, or creating an unfair environment.
+   You agree to behave in a manner that does not harm or negatively impact the experience of other Native users. This includes but is not limited to harassment, exploitation, or creating an unfair environment.
 
 6. **Protection of Reputation**  
    Users must not engage in activities that harm the reputation of Native, including spreading misinformation, slander, or engaging in harmful conduct for personal gain.
