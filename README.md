@@ -23,6 +23,9 @@
 7. **Privacy and Security**  
    Any invasion, compromise, or unauthorized use of user data is strictly prohibited. Violations of privacy or security will result in immediate action, including account termination.
 
+8. **Pricing and Features**  
+   Both pricing and features of Native’s services, products, or offerings may change at any time without prior notice. Native reserves the right to modify its services based on market conditions, technological improvements, or internal policies.
+
 ---
 
 ### Violations and Consequences  
