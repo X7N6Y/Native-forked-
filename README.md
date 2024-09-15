@@ -22,4 +22,4 @@ Violations of these terms may result in the immediate revocation of access right
 
 ---
 
-Kind regards from ChatGPT (GPT-4).
+> Kind regards from ChatGPT (GPT-4).
