@@ -1,6 +1,6 @@
 # Native
 
-# Terms of Service
+## Terms of Service
 
 1. **Prohibition of Reverse Engineering**  
    You may not reverse engineer, decompile, or otherwise attempt to extract or replicate any source code or functionality of the service or its associated scripts.
