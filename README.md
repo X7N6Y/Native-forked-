@@ -20,6 +20,6 @@
 ### Violations and Consequences  
 Violations of these terms may result in the immediate revocation of access rights, including but not limited to blacklisting or revoking whitelist privileges, at the discretion of Native.
 
-
+---
 
 Kind regards from ChatGPT (GPT-4).
