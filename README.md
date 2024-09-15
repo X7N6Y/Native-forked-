@@ -2,25 +2,31 @@
 
 ## Terms of Service
 
-1. **Prohibition of Reverse Engineering**  
-   You may not reverse engineer, decompile, or otherwise attempt to extract or replicate any source code or functionality of the service or its associated scripts.
-   
-2. **User Protection**  
-   You agree not to engage in any actions that could cause harm or negatively impact the experience, security, or well-being of other users of the service.
+1. **Prohibition of Script Sharing**  
+   Users are prohibited from sharing, distributing, or replicating any scripts associated with Native without explicit permission. Violations may result in immediate termination of access.
 
-3. **Protection of Reputation**  
-   You must not engage in any actions that unjustifiably damage the reputation of Native, including slander, misinformation, or harmful conduct for self-serving purposes.
+2. **No Refunds**  
+   All sales and transactions are final. Native does not offer refunds under any circumstances, regardless of the reason.
 
-4. **Refunds and Compensation**  
-   Refunds or compensation requests are not guaranteed and will be at the sole discretion of the Native team. Native reserves the right to refuse refunds or compensation without providing specific reasons.
+3. **No Account/Whitelist Transfers**  
+   User accounts, whitelists, or other access permissions are non-transferable. Any attempt to transfer, sell, or trade accounts or access rights will result in termination of the account.
 
-5. **Privacy and Security**  
-   You are prohibited from invading, compromising, or leaking any user data or personal information belonging to Native users. Unauthorized access, public disclosure, or misuse of user information will not be tolerated.
+4. **Prohibition of Reverse Engineering**  
+   Users are strictly prohibited from reverse engineering, decompiling, or attempting to extract or replicate any part of Native's services, code, or functionality.
+
+5. **User Conduct**  
+   You agree to behave in a manner that does not harm or negatively impact the experience of other users. This includes but is not limited to harassment, exploitation, or creating an unfair environment.
+
+6. **Protection of Reputation**  
+   Users must not engage in activities that harm the reputation of Native, including spreading misinformation, slander, or engaging in harmful conduct for personal gain.
+
+7. **Privacy and Security**  
+   Any invasion, compromise, or unauthorized use of user data is strictly prohibited. Violations of privacy or security will result in immediate action, including account termination.
 
 ---
 
 ### Violations and Consequences  
-Violations of these terms may result in the immediate revocation of access rights, including but not limited to blacklisting or revoking whitelist privileges, at the discretion of Native.
+Any violations of these terms may result in immediate suspension or termination of access, blacklisting, or other appropriate actions as determined by the Native team.
 
 ---
 
