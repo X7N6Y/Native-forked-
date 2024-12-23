@@ -1,4 +1,4 @@
--- Deobfuscated loader.lua from Native-lab/Native
+-- Deobfuscated loader.lua from Native-lab/Native with Roblox ID whitelist
 
 local function execute(source, env)
     local f = loadstring(source)
@@ -7,13 +7,14 @@ local function execute(source, env)
     return f()
 end
 
-local function checkWhitelist(playerName)
+local function checkWhitelist(userId)
     local whitelist = {
-        ["Player1"] = true,
-        ["Player2"] = true,
-        -- ... Add more whitelisted players here
+        [123456789] = true,  -- Replace with the Roblox ID of the first whitelisted user
+        [987654321] = true,  -- Replace with the Roblox ID of the second whitelisted user
+        [7347356224] = true, -- Your Roblox ID added
+        -- ... Add more whitelisted user IDs here
     }
-    return whitelist[playerName]
+    return whitelist[userId]
 end
 
 local function loadRemoteScript(url)
@@ -26,7 +27,7 @@ local function loadRemoteScript(url)
     end
 end
 
-if checkWhitelist(game.Players.LocalPlayer.Name) then
+if checkWhitelist(game.Players.LocalPlayer.UserId) then
     local uiScript = loadRemoteScript("https://raw.githubusercontent.com/Native-lab/Native/main/Library/UI.lua")
     local mainScript = loadRemoteScript("https://raw.githubusercontent.com/Native-lab/Native/main/Main.lua") -- Assuming you want to load Main.lua
 
@@ -41,5 +42,5 @@ if checkWhitelist(game.Players.LocalPlayer.Name) then
         warn("Failed to load one or more scripts.")
     end
 else
-    warn("You are not whitelisted to use this script.")
+    warn("You are not whitelisted to use this script. Your Roblox ID is: " .. game.Players.LocalPlayer.UserId)
 end
